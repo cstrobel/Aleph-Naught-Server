@@ -1,4 +1,4 @@
-package net.AlephNaught.Server;
+package net.novasharper.AlephNaught.Server;
 import org.zeromq.ZMQ;
 import TerminalIO.KeyboardReader;
 
